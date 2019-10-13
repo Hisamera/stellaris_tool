@@ -1,0 +1,8 @@
+[package]
+name = "stellaris_modding_tools"
+version = "0.0.1"
+authors = ["Dorian Klimowicz <Thanatos712@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "1.4.0"
