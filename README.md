@@ -7,11 +7,14 @@ If you\`re only interested in the program [here](https://github.com/Hisamera/ste
 I\`ll accept any criticism, even horrible ones, and not helpful ones. If you spot a bug (as in, this should work and my tool screams or other way around).
 
 # Roadmap
-0.2 -> Proper rendering of [Actor.GetAllianceName], [admiral.GetHerHis], $B$Something, £energy£. So you can see your string and format it without starting stellaris.
-0.3 -> First GUI, it WILL be on Vulkan no matter how long it takes me. As I plan on making games in future, this is a must for me. Sorry.
+0.2 -> First GUI, it WILL be on Vulkan no matter how long it takes me. As I plan on making games in future, this is a must for me. Sorry.
+0.3 -> Proper rendering of [Actor.GetAllianceName], [admiral.GetHerHis], $B$Something, £energy£. So you can see your string and format it without starting stellaris.
+0.4 -> Adding ability to edit ship components, shown as in the game for ease of use, in this version only finall state would be shown and not what mod has introduced/change this component.
+0.5 -> Adding mod tree for ship components ability, so you can view which added what and what changed utilizing the dlc_load.json
+0.6 -> ¯\_(ツ)_/¯
 
 # How to help.
-Biggest help would be using it, and proposing additional functionality. As right now I don\`t have conscience to ask for money. As I have a specific plan for version 0.5 you won\`t understand how HUGE help that will be until you see it. So don\`t hesitate to say something to me. It can be through github issue, on Stellaris forum, on [Steam](steamcommunity.com/id/Hisamera), or email (I\`m thinking of a way to fool spam bots, so there is no email right now).
+Biggest help would be using it, and proposing additional functionality, as I currently don't have time to test and develop, issues would prove to be biggest help.
 
 # Help
 This is a direct copy and paste of help from program
